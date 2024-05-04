@@ -1,2 +1,9 @@
 // For information on how to create your own theme, please see:
 // http://ionicframework.com/docs/theming/
+body {
+  --ion-background-color: white;
+  --ion-text-color: black;
+  --ion-toolbar-color: black;
+  --ion-toolbar-background: white;
+  --color: black;
+}
